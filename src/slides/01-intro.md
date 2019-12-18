@@ -1,6 +1,6 @@
 # NOVIDADES
 
-Lançamentos Exclusivas nos aguardam dia 06 de Janeiro
+Lançamentos Exclusivas nos aguardam dia 6 de Janeiro
 
 ---
 
@@ -22,4 +22,4 @@ Here's the source of the first slide:
 
     # NOVIDADES
 
-    Lançamentos Exclusivas nos aguardam dia 06 de Janeiro
+    Lançamentos Exclusivas nos aguardam dia 6 de Janeiro
