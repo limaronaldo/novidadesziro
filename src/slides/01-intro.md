@@ -1,6 +1,6 @@
-# Gatsby Deck
+# NOVIDADES
 
-Create presentations using Gatsby & React.
+Lançamentos Exclusivas nos aguardam dia 06 de Janeiro
 
 ---
 
