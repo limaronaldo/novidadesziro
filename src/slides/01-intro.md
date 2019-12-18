@@ -2,6 +2,10 @@
 
 Lançamentos Exclusivas nos aguardam dia 6 de Janeiro
 
+<img src="novidades-ziro.jpg"
+     alt="Novidades Ziro"
+     style="max-width:1920px;" />
+
 ---
 
 > Inscrutable icons litter the face of the devices even though the research
