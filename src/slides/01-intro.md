@@ -4,11 +4,8 @@ Lançamentos Exclusivas nos aguardam dia 6 de Janeiro
 
 ---
 
-> Inscrutable icons litter the face of the devices even though the research
-> community has long demonstrated that people cannot remember the meaning of
-> more than a small number of icons […] Who can remember what each icon
-> means? Not me.
-> <cite>Don Norman</cite>
+> Parceria com as Melhores Marcas 
+> <cite>Ziro</cite>
 
 ---
 
@@ -16,9 +13,9 @@ Lançamentos Exclusivas nos aguardam dia 6 de Janeiro
 
 ---
 
-## Slides are written in Markdown!
+## Vem pra Ziro
 
-Here's the source of the first slide:
+Aguarde
 
     # NOVIDADES
 
