@@ -20,6 +20,6 @@ Create presentations using Gatsby & React.
 
 Here's the source of the first slide:
 
-    # Gatsby Deck
+    # NOVIDADES
 
-    Create presentations using Gatsby & React.
+    Lançamentos Exclusivas nos aguardam dia 06 de Janeiro
