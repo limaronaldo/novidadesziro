@@ -1,6 +1,6 @@
 # NOVIDADES
 
-Lançamentos Exclusivas nos aguardam dia 6 de Janeiro
+Lançamentos Exclusivos nos aguardam dia 6 de Janeiro
 
 ---
 
@@ -19,4 +19,4 @@ Aguarde
 
     # NOVIDADES
 
-    Lançamentos Exclusivas nos aguardam dia 6 de Janeiro
+    Lançamentos Exclusivos nos aguardam dia 6 de Janeiro
